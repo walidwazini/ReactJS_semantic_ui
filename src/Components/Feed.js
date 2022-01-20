@@ -10,8 +10,9 @@ const Feed = () => {
             Build your brand's recognition and get detailed insights on how your
             links are performing.
           </p>
-          <button>Get Started</button>
+          <button className='ui primary button' >Get Started</button>
         </span>
+        
       </div>
     </section>
   );
